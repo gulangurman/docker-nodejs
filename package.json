@@ -1,0 +1,14 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "A simple node.js express server",
+  "main": "index.js",
+  "scripts": {   
+    "start":"node index.js"
+  },
+  "author": "Gulan Gurman <gulangurman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
